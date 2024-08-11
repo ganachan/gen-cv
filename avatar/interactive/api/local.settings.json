@@ -1,0 +1,24 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+      "AzureWebJobsStorage": "",
+      "FUNCTIONS_WORKER_RUNTIME": "python",
+      "AZURE_OPENAI_ENDPOINT": "https://ganaopenaiwestus3.openai.azure.com/",
+      "AZURE_OPENAI_API_KEY": "cc204a3c33fd4d118a885052e31369b3",
+      "AZURE_OPENAI_CHAT_DEPLOYMENT" : "gpt-4o",
+      "AZURE_OPENAI_EMBEDDINGS_DEPLOYMENT" : "text-embedding-ada-002",
+      "AZURE_OPENAI_API_VERSION" : "2023-07-01-preview",
+      "AZURE_SEARCH_ENDPOINT": "https://my-search-service1.search.windows.net",
+      "AZURE_SEARCH_API_KEY": "qxMpBsc7my8xSOVJu8PxCghKflsiLzZLZcya4jwvukAzSeDNYaKt",
+      "AZURE_SEARCH_INDEX": "avatarproducts",
+      "AZURE_SPEECH_REGION": "westeurope",
+      "AZURE_SPEECH_API_KEY": "594d473714c94153878fe38ef0ef5ca4",
+      "TEXT_ANALYTICS_ENDPOINT": "https://text12345678gana.cognitiveservices.azure.com/",
+      "TEXT_ANALYTICS_KEY": "ea3b6d08ab5a4a54bbd9828acc8a5153",
+      "BLOB_SAS_URL": "https://gcaisg1.blob.core.windows.net/avatarcontainer?sp=r&st=2024-08-09T20:53:50Z&se=2024-08-10T04:53:50Z&spr=https&sv=2022-11-02&sr=c&sig=I4QJIkMU%2BeAteAToNVQHO9uX05hEc8yDfGyLKmu9BLE%3D",
+      "SQL_DB_SERVER": "sqldb2server.database.windows.net",
+      "SQL_DB_USER": "ganachan2020",
+      "SQL_DB_PASSWORD": "Microsoft@010712",
+      "SQL_DB_NAME": "db1"
+    }
+  }
